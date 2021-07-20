@@ -17,7 +17,7 @@
   ### Essentila Method
   <pre>
     on(event, listener) : 
-       주어진 이벤트 유형에 대햇 새로운 listener을 등록
+       주어진 이벤트 유형에 대해 새로운 listener을 등록
 
     once(event, listener) : 
        첫 이벤트가 전달된 후 제거되는 새로운 listener 등록
